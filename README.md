@@ -29,3 +29,4 @@
 - [Orion](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/) - 1.2.3
 - [LethalExpansionCore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/) - 1.3.14
 - [Infernis](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/) - 1.4.0
+- [BoomboxYT](https://thunderstore.io/c/lethal-company/p/SylviBlossom/BoomboxYT/) - 2024-1-17
