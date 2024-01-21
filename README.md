@@ -26,4 +26,6 @@
 - [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/) - 2.0.0
 - [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) - 0.0.5
 - [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/) - 1.0.4
-
+- [Orion](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/) - 1.2.3
+- [LethalExpansionCore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/) - 1.3.14
+- [Infernis](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/) - 1.4.0
