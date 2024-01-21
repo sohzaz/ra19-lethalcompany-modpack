@@ -24,3 +24,6 @@
 - [TerminalClock](https://github.com/NotAtomicBomb/TerminalClock) - 1.0.5
 - [TwoRadarMaps](https://github.com/Zaggy1024/LC_TwoRadarMaps) - 1.0.2
 - [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/) - 2.0.0
+- [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) - 0.0.5
+- [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/) - 1.0.4
+
