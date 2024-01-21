@@ -22,3 +22,4 @@
 - [TerminalApi](https://github.com/NotAtomicBomb/TerminalApi) - 1.5.0
 - [TerminalClock](https://github.com/NotAtomicBomb/TerminalClock) - 1.0.5
 - [TwoRadarMaps](https://github.com/Zaggy1024/LC_TwoRadarMaps) - 1.0.2
+- [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) - 1.0.3
